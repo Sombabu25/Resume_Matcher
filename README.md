@@ -29,5 +29,6 @@ It supports PDF, DOCX, and TXT files, using TF-IDF vectorization and cosine simi
 . Contributions are welcome! Please fork the repository and create a pull request.
 
 ![image alt](https://github.com/Sombabu25/Resume_Matcher/blob/main/Screenshot%202024-11-11%20001736.png?raw=true)
+![image alt](https://github.com/Sombabu25/Resume_Matcher/blob/main/Screenshot%202024-11-11%20001845.png?raw=true)
 
 
